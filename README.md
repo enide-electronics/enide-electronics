@@ -1,5 +1,5 @@
-- 👋 Hello, @enide-electronics is the account for some of the source code I publish on the [Enide!](http://www.enide.net) website
-- 👀 Here you will find the source code for some projects that use PIC or AVR microcontrollers.
+- 👋 Hello, @enide-electronics is the Github account of [Enide!](http://www.enide.net) website
+- 👀 Here you will find the source code for some projects that use PIC, AVR or ESP8266 microcontrollers.
 - 🌱 I’m currently learning how to survive with the Arduino "IDE" and the always outdated dependencies of PlatformIO
 - 💞️ All source code published here should be under a open-source license, so feel free to use it and report back any problems you find
 - 📫 How to reach me ? Either use Github or email.
